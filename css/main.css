@@ -11,7 +11,7 @@ body{background-color: pink;
 	padding-top:30px;
 	box-sizing: border-box;
 }
-.content1{
+.red{
 	background-color: red;
 	width: 70px;
 	height: 70px;
@@ -21,7 +21,7 @@ body{background-color: pink;
 	
 
 }
-.content2{
+.yellow{
 	background-color: yellow;
 	width: 70px;
 	height: 70px;
@@ -31,7 +31,7 @@ body{background-color: pink;
 	
 
 }
-.content3{
+.green{
 	background-color: green;
 	width: 70px;
 	height: 70px;
@@ -40,10 +40,13 @@ body{background-color: pink;
 	margin-bottom: 10px;
 	
 }
-.last-container{
+.stand{
 	background-color: #000;
 	width: 100px;
 	height: 200px;
 	margin: 0 auto;
 	
+}
+.off{
+	background-color: #ccc
 }
